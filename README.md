@@ -11,6 +11,7 @@
   - Code some kind of visual that reacts to the output of your classifier! See https://p5js.org/reference/ for reference
 
 2. Create a program that uses gesture recognition
+  - https://editor.p5js.org/kongsally/sketches/I2HuS0w1T  
 
 ## Submission Instructions
 - Create a pull request against this repo
