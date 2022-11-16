@@ -1,5 +1,9 @@
 # lab07-machine-learning
 
+
+https://user-images.githubusercontent.com/72320867/202268150-ba917bc1-dd50-445a-b9d2-21d100e27b5b.mov
+
+
 1. Create a brief demo with Teachable Machine
   - Go to https://teachablemachine.withgoogle.com/
   - Follow the instrcutions for an Image Project (standard image model)
