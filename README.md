@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/3106877/202235887-ddc5787e-02ac-4a02-b637-8d77cdf86559.mp4
+
 # lab07-machine-learning
 
 1. Create a brief demo with Teachable Machine
