@@ -1,5 +1,13 @@
 # lab07-machine-learning
 
+vv link to my code - didn't really change too much; I only changed the picture when my new class is detected and the words displayed when my new class is detected
+
+https://docs.google.com/document/d/1jd2pW8rnIbnWm-O972LK5fPX7IFxIj4z8WlwfRn_0B4/edit?usp=sharing
+
+vv link to screen recordings of my work
+
+https://drive.google.com/drive/folders/1PdbIvQXsnzwbg7ywQGbMEOVQZ6YLbsne?usp=sharing
+
 1. Create a brief demo with Teachable Machine
   - Go to https://teachablemachine.withgoogle.com/
   - Follow the instrcutions for an Image Project (standard image model)
