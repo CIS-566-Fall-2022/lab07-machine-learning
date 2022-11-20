@@ -1,4 +1,13 @@
 # lab07-machine-learning
+Name: Yilin Liu
+
+model link: https://teachablemachine.withgoogle.com/models/grpGWynSs/
+
+p5 link: https://editor.p5js.org/yilin.liu1999/sketches/iawiCZ5kh
+
+Simple output:
+
+![](output.gif)
 
 1. Create a brief demo with Teachable Machine
   - Go to https://teachablemachine.withgoogle.com/
