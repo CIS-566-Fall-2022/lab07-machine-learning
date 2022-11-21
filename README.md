@@ -1,7 +1,11 @@
 # lab07-machine-learning
 
-My model works on Teachable Machine but sadly does not work from p5.js :( \
-I will create a new model and submit my work again.
+I trained my model to recognize three hand gestures:
+  - V sign : Peace
+  - Open palm : Stop
+  - Thumbs up : Good job
+
+https://user-images.githubusercontent.com/90112787/203116531-479f6e29-63e1-4a8b-990a-34c2b7379a78.mov
 
 ![Screenshot 2022-11-20 at 7 18 56 PM](https://user-images.githubusercontent.com/90112787/202934647-8ebc2430-6362-4c2c-9820-e037bd4db838.png)
 
