@@ -1,5 +1,7 @@
 # lab07-machine-learning
 
+Link to both videos: https://drive.google.com/drive/folders/1re1JtoG-tcRWZAsptL8KNk9edQ20HbQL?usp=sharing
+
 1. Create a brief demo with Teachable Machine
   - Go to https://teachablemachine.withgoogle.com/
   - Follow the instrcutions for an Image Project (standard image model)
