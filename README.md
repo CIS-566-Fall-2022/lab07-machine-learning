@@ -1,3 +1,15 @@
+# work
+
+# 1. brief demo
+training the model to recognize glasses wearing glasses vs not wearing glasses
+
+model sharable link: https://teachablemachine.withgoogle.com/models/SbbYTuWnK/
+
+# 2. gesture recognition
+peace signs
+
+
+---
 # lab07-machine-learning
 
 1. Create a brief demo with Teachable Machine
