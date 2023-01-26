@@ -5,6 +5,8 @@ training the model to recognize glasses wearing glasses vs not wearing glasses
 
 model sharable link: https://teachablemachine.withgoogle.com/models/SbbYTuWnK/
 
+(ignore the text under "Teachable Machine". I forgot to edit the index.html)
+
 ![06b94589e48b81d5ea9d91cf61ea2979](https://user-images.githubusercontent.com/60904107/214723545-88582ccf-0853-4aaa-b771-01d762db204f.gif)
 
 
